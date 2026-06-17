@@ -33,7 +33,7 @@
             <cards narrow="true">
                 <title>Bereits stattgefundene Events</title>
                 <card href="crafting-challenge.md" badge="network" summary="Mehr Informationen"/>
-                <card href="oneblock-event.md" badge="container"/>
+                <card href="oneblock-event.md" badge="container" summary="Mehr Informationen"/>
                 <card href="randomizer-event.md" badge="search" summary="Mehr Informationen"/>
                 <card href="hardcore-event.md" badge="cross-check" summary="Mehr Informationen"/>
                 <card href="end-event.md" badge="cloud" summary="Mehr Informationen"/>
