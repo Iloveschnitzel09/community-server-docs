@@ -88,7 +88,7 @@ Wenn du Teil unseres Teams werden möchtest, öffne während einer aktiven Bewer
 </tab>
 <tab title="Twitch-Support" id="twitch-ticket">
 
-Bei Fragen zu unserem Twitch-Kanal oder wenn du auf Twitch gebannt wurdest und den Bann anfechten möchtest, öffne ein Twitch-Support-Ticket.
+Bei Fragen zu Castcrafters Twitch-Kanal oder wenn du auf Twitch gebannt wurdest und den Bann anfechten möchtest, öffne ein Twitch-Support-Ticket.
 
 > Für einen Entbannungsantrag auf Twitch erwarten wir einen **ehrlichen und selbstgeschriebenen** Antrag.
 > Gib bitte deinen **genauen Twitch-Benutzernamen** sowie – sofern bekannt – den **Grund des Banns** an.
