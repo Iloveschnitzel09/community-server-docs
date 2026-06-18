@@ -101,7 +101,7 @@ gesammelt haben musst.
 
 ## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
 
-Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
+Hier siehst du, bei welchen Leveln du Belohnungen bekommst und welche das sind.
 
 | Level | Belohnung                         |
 |-------|-----------------------------------|

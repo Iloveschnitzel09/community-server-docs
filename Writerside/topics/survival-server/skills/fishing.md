@@ -98,7 +98,7 @@ gesammelt haben musst.
 
 ## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
 
-Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
+Hier siehst du, bei welchen Leveln du Belohnungen bekommst und welche das sind.
 
 | Level | Belohnung                       |
 |-------|---------------------------------|
@@ -106,6 +106,6 @@ Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
 | 20    | Herz des Meeres                 |
 | 30    | Verzaubertes Buch mit Reparatur |
 | 40    | Verzaubertes Buch mit Köder 4   |
-| 50    | Verbaubertes Buch mit Sog 6     |
+| 50    | Verzaubertes Buch mit Sog 6     |
 
 ****

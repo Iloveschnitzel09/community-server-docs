@@ -100,7 +100,7 @@ gesammelt haben musst.
 
 ## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
 
-Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
+Hier siehst du, bei welchen Leveln du Belohnungen bekommst und welche das sind.
 
 | Level | Belohnung                              |
 |-------|----------------------------------------|
@@ -108,7 +108,7 @@ Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
 | 20    | Trank mit Eile 10                      |
 | 30    | Verzaubertes Buch mit Reparatur        |
 | 40    | Verzaubertes Buch mit Effizienz 6      |
-| 50    | Verbaubertes Buch mit Federfall 7      |
+| 50    | Verzaubertes Buch mit Federfall 7      |
 
 
 ****
