@@ -99,4 +99,15 @@ gesammelt haben musst.
 | 49    | 3.700.000    | 51.172.425 |
 | 50    | 4.000.000    | 55.172.425 |
 
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
+
+| Level | Belohnung                         |
+|-------|-----------------------------------|
+| 10    | Netheritbarren                    |
+| 20    | Trank mit Eile 10                 |
+| 30    | Verzaubertes Buch mit Soulbound   |
+| 40    | Verzaubertes Buch mit Effizienz 6 |
+| 50    | Verbaubertes Buch mit Effizienz 7 |
 ****

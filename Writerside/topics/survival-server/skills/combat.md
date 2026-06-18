@@ -97,3 +97,14 @@ Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie vie
 | 49    | 3.700.000    | 51.172.425  |
 | 50    | 4.000.000    | 55.172.425  |
 
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
+
+| Level | Belohnung                             |
+|-------|---------------------------------------|
+| 10    | Schadensbeständigkeit 4               |
+| 20    | Totem der Unsterblichkeit             |
+| 30    | Verzaubertes Buch mit Erfahrung 4     |
+| 40    | Verzaubertes Buch mit Plünderung 5    |
+| 50    | Bogen mit Reparatur und Unendlichkeit |

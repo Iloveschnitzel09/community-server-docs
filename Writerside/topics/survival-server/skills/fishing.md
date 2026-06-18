@@ -96,4 +96,16 @@ gesammelt haben musst.
 | 49    | 80.000       | 1.030.235 |
 | 50    | 100.000      | 1.130.235 |
 
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier siehst du, bei welchen Leveln man Belohnungen bekommt und welche es sind.
+
+| Level | Belohnung                       |
+|-------|---------------------------------|
+| 10    | Trank mit Dolphins Grace 4      |
+| 20    | Herz des Meeres                 |
+| 30    | Verzaubertes Buch mit Reparatur |
+| 40    | Verzaubertes Buch mit Köder 4   |
+| 50    | Verbaubertes Buch mit Sog 6     |
+
 ****
