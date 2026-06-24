@@ -101,14 +101,14 @@ gesammelt haben musst.
 
 ## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
 
-Hier siehst du, bei welchen Leveln du Belohnungen bekommst und welche das sind.
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
 
 | Level | Belohnung                         |
 |-------|-----------------------------------|
 | 10    | Eisenblock                        |
-| 20    | Trank mit Eile 10                 |
+| 20    | Trank mit Eile X                 |
 | 30    | Verzaubertes Buch mit Soulbound   |
-| 40    | Verzaubertes Buch mit Effizienz 6 |
-| 50    | Verzaubertes Buch mit Effizienz 7 |
+| 40    | Verzaubertes Buch mit Effizienz XI |
+| 50    | Verzaubertes Buch mit Effizienz XII |
 
 ****

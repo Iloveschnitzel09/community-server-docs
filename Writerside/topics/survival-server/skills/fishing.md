@@ -98,14 +98,14 @@ gesammelt haben musst.
 
 ## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
 
-Hier siehst du, bei welchen Leveln du Belohnungen bekommst und welche das sind.
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
 
 | Level | Belohnung                       |
 |-------|---------------------------------|
-| 10    | Trank mit Dolphins Grace 4      |
+| 10    | Trank mit Dolphin's Grace IV      |
 | 20    | Herz des Meeres                 |
 | 30    | Verzaubertes Buch mit Reparatur |
-| 40    | Verzaubertes Buch mit Köder 4   |
-| 50    | Verzaubertes Buch mit Sog 6     |
+| 40    | Verzaubertes Buch mit Köder IV   |
+| 50    | Verzaubertes Buch mit Sog VI     |
 
 ****

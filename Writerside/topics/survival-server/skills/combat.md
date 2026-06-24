@@ -99,12 +99,12 @@ Hier siehst du, wie viel XP du für ein bestimmtes Level benötigst oder wie vie
 
 ## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
 
-Hier siehst du, bei welchen Leveln du Belohnungen bekommst und welche das sind.
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
 
 | Level | Belohnung                             |
 |-------|---------------------------------------|
-| 10    | Schadensbeständigkeit 4               |
+| 10    | Trank mit Resistenz IV               |
 | 20    | Totem der Unsterblichkeit             |
-| 30    | Verzaubertes Buch mit Erfahrung 4     |
-| 40    | Verzaubertes Buch mit Plünderung 5    |
+| 30    | Verzaubertes Buch mit Experience IV     |
+| 40    | Verzaubertes Buch mit Plünderung V    |
 | 50    | Bogen mit Reparatur und Unendlichkeit |
