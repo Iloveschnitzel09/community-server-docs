@@ -136,15 +136,14 @@ Es gibt verschiedene Webseiten, auf denen du Crash-Reports hochladen und anschli
 <tabs>
 <tab title="CurseForge" id="minecraft-crash-curseforge">
 
-In CurseForge machst du einen Rechtsklick auf das Modpack-Profil, dann auf Ordner öffnen. Dort findest du den Ordner
-`crash-reports`.
-Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei (am
-Datum/Uhrzeit im Dateinamen erkennbar) und lade diese auf einer der oben genannten Seiten hoch.
+In CurseForge machst du einen Rechtsklick auf das Modpack-Profil und klickst auf `Ordner öffnen`.
+Dort findest du den Ordner `crash-reports`.
+Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei. Du erkennst sie am Datum und an der Uhrzeit im Dateinamen.
 </tab>
 <tab title="Modrinth App" id="minecraft-crash-modrinth-app">
 
-In der Modrinth-App wählst du dein Modpack-Profil aus. Klicke nun auf die drei Punkte oben rechts und dann auf Ordner öffnen. Dort findest du den Ordner
-`crash-reports`.
+In der Modrinth-App wählst du dein Modpack-Profil aus. Klicke oben rechts auf die drei Punkte und dann auf `Ordner öffnen`.
+Dort findest du den Ordner `crash-reports`.
 Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei (am
 Datum/Uhrzeit im Dateinamen erkennbar) und lade diese auf einer der oben genannten Seiten hoch.
 </tab>
@@ -183,9 +182,9 @@ diese auf einer der oben genannten Seiten hoch.
 
 </chapter>
 > - Der Crash-Report ist nicht der Log.
-> - Wenn du den Crash-Report als eine lange Chatnachricht sendest, brauchst du keine Hilfe zu erwarten!
-> - Ohne Crash-Report brauchst du keine Hilfe zu erwarten. Wenn du jedoch Probleme hast, den Crash-Report zu finden,
->   wird dir gerne geholfen.
+> - Poste den Crash-Report bitte nicht als lange Chatnachricht, sondern teile ihn als Link.
+> - Ohne Crash-Report kann dir nicht gezielt geholfen werden. Wenn du Probleme hast, den Crash-Report zu finden,
+>   hilft dir das Team gerne.
 > - Nimm immer die **neueste** Datei aus dem `crash-reports`-Ordner.
 > - Bitte verändere den Crash-Report nicht!
 >
