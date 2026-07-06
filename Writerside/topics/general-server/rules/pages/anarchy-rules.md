@@ -3,11 +3,6 @@
 
 # Anarchy Event Regelwerk
 
-Es wird davon ausgegangen, dass sich alle Spieler gesittet und freundlich verhalten
-und sich keinen unfairen Vorteil gegenüber anderen Spielern verschaffen oder ihnen auf andere Weise schaden.
-Solltest du vermehrt negativ mit Aktionen auffallen oder gegen die Regeln verstoßen, musst du
-mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung findest du weiter unten.
-
 1. **Spielmodifikationen, die keinen unfairen Vorteil gegenüber anderen Spielern verschaffen, sind erlaubt, solange sie
    die Kommunikation zwischen Server und Client nicht verändern.** Wir weisen darauf hin, dass andere Modifikationen
    und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
