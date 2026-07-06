@@ -209,7 +209,7 @@
     feature
   </secondary-label>
   <secondary-label id="2023.3" name="2023.3" color="blue">New in version 2023.3</secondary-label>
-  <secondary-label id="anarchy-event-2-date" name="11.07.2026 - 18.07.2026" color="blue">Das Event
+  <secondary-label id="anarchy-event-2-date" name="11.07.2026-18.07.2026" color="blue">Das Event
     läuft
     vom 11.07.2026 bis zum 18.07.2026.
   </secondary-label>
