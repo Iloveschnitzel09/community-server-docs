@@ -9,7 +9,7 @@
 ## Über das Event {id="general-info"}
 
 Das Anarchy-Event ist ein Event, bei dem es darum geht, in einer Welt ohne Regeln zu überleben. Das Event dauert 7 Tage
-und es können maximal 200 Spieler
+und es können mindestens 100 Spieler
 gleichzeitig auf der Welt spielen. Das Ziel ist es, so lange wie möglich zu überleben und die Welt zu erkunden.
 
 ## Statistiken {id="stats"}
