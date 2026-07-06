@@ -25,8 +25,6 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung findest du
    >
    {title="Explizit verbotene Modifikationen sind unter anderem:" style="warning"}
 
-   <include from="util.md" element-id="mod-pack"/>
-
 2. **Freundliches und respektvolles Verhalten ist Grundvoraussetzung.**
 
    Alle Spieler sind verpflichtet, ein respektvolles und faires Miteinander zu wahren. Jegliche Form von Belästigung, Beleidigung, Anfeindung, Scamming, Trolling oder provozierendem Verhalten wird nicht toleriert.
