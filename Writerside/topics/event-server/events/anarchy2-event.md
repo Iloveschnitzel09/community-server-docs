@@ -11,6 +11,7 @@
 Das Anarchy-Event ist ein Event, bei dem es darum geht, in einer Welt ohne Regeln zu überleben. Das Event dauert 7 Tage
 und es können mindestens 100 Spieler
 gleichzeitig auf der Welt spielen. Das Ziel ist es, so lange wie möglich zu überleben und die Welt zu erkunden.
+Am 7. Tag startet das Finale, bei dem der letzte überlebende Spieler gewinnt.
 
 ## Statistiken {id="stats"}
 Auf der [Stats Website](https://stats.castcrafter.de/) findest du detaillierte Statistiken zu dir und anderen Spielern.
