@@ -18,15 +18,9 @@ Auf der [Stats Website](https://stats.castcrafter.de/) findest du detaillierte S
 
 ## Zusätzliche Regeln {id="rules"}
 
-> Das bedeutet **fast** keine Regeln. Es handelt sich um einen Server, auf dem du dich frei entfalten und
-> Geschichten sowie Charaktere erschaffen kannst. **ABER** ...
+> Ein separates Regelwerk für das Anarchy-Event findest du [hier](anarchy-rules.md).
 >
-{title="Anarchy:" style="note"}
-
-1. **Cheating**: Verwende kein X-Ray, Hack-Clients oder andere Cheating-Tools. Ein fairer Wettbewerb und Spielspaß
-   stehen im Vordergrund.
-2. Das Erstellen von Lagmaschinen oder jegliche Handlungen, die den Server extrem beeinflussen und zum Crash führen
-   könnten, sind zu unterlassen. Es geht um Spaß, nicht um das Sabotieren des Erlebnisses für andere.
+{title="Anarchy Regelwerk:" style="note"}
 
 ## Q&amp;A {id="q-a"}
 
