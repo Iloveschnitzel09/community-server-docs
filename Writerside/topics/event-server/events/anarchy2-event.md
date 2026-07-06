@@ -18,7 +18,7 @@ Auf der [Stats Website](https://stats.castcrafter.de/) findest du detaillierte S
 
 ## Zusätzliche Regeln {id="rules"}
 
-Es handelt sich zwar um ein Anarchy Event, jedoch möchten wir trotzdem ein faires und respektvolles Miteinander sicherstellen, daher gelten trotzdem folgende Regeln: [Anarchy Regelwerk](anarchy-rules.md)
+Es handelt sich zwar um ein Anarchy-Event, dennoch möchten wir ein faires und respektvolles Miteinander gewährleisten. Daher gilt auf dem Eventserver das folgende angepasste Regelwerk: [Anarchy Regelwerk](anarchy-rules.md)
 
 ## Q&amp;A {id="q-a"}
 

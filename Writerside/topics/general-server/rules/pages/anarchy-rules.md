@@ -3,10 +3,6 @@
 
 # Anarchy Event Regelwerk
 
-> Dieses Regelwerk gilt nur auf dem Event Server für das Anarchy Event 2.0
->
-{title="" style="warning"}
-
 1. **Spielmodifikationen, die keinen unfairen Vorteil gegenüber anderen Spielern verschaffen, sind erlaubt, solange sie
    die Kommunikation zwischen Server und Client nicht verändern.** Wir weisen darauf hin, dass andere Modifikationen
    und/oder Hacked-Clients nicht zulässig sind. Des Weiteren ist jegliche Form der Automatisierung einer
