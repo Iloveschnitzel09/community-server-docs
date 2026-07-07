@@ -98,4 +98,17 @@ gesammelt haben musst.
 | 49    | 3.700.000    | 51.172.425 |
 | 50    | 4.000.000    | 55.172.425 |
 
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
+
+| Level | Belohnung                              |
+|-------|----------------------------------------|
+| 10    | Seltsame Suppe mit 2 Stunden Sättigung |
+| 20    | Trank mit Eile X                      |
+| 30    | Verzaubertes Buch mit Reparatur        |
+| 40    | Verzaubertes Buch mit Effizienz VI      |
+| 50    | Verzaubertes Buch mit Federfall VII      |
+
+
 ****

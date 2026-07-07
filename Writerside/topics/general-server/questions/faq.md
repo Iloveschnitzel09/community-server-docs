@@ -121,6 +121,76 @@ Darin befindet sich eine Datei namens `latest.log`. Diese solltest du auf einer 
 {style="note" title="Wichtig"}
 
 </def>
+<def title="Wie teile ich meinen Crash-Report?" id="how-to-share-crash-report">
+
+Es gibt verschiedene Webseiten, auf denen du Crash-Reports hochladen und anschließend einen Link dazu posten kannst.
+**Bitte poste den Crash-Report nie als lange Nachricht in einen Chat!**
+
+- [PasteBin](https://pastebin.com)
+- [GitHub](https://gist.github.com)
+- [Paste](https://paste.ee)
+- [mclo.gs](https://mclo.gs)
+
+<chapter title="Wie finde ich den Crash-Report?" id="find-minecraft-crash-report">
+
+<tabs>
+<tab title="CurseForge" id="minecraft-crash-curseforge">
+
+In CurseForge machst du einen Rechtsklick auf das Modpack-Profil und klickst auf `Ordner öffnen`.
+Dort findest du den Ordner `crash-reports`.
+Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei. Du erkennst sie am Datum und an der Uhrzeit im Dateinamen.
+</tab>
+<tab title="Modrinth App" id="minecraft-crash-modrinth-app">
+
+In der Modrinth-App wählst du dein Modpack-Profil aus. Klicke oben rechts auf die drei Punkte und dann auf `Ordner öffnen`.
+Dort findest du den Ordner `crash-reports`.
+Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei (am
+Datum/Uhrzeit im Dateinamen erkennbar) und lade diese auf einer der oben genannten Seiten hoch.
+</tab>
+<tab title="GD Launcher" id="minecraft-crash-gd-launcher">
+
+Im GD Launcher machst du einen Rechtsklick auf das Modpack-Profil, dann auf `Open Folder`. Dort findest du den Ordner
+`crash-reports`.
+Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei und lade
+diese auf einer der oben genannten Seiten hoch.
+</tab>
+<tab title="MultiMC" id="minecraft-crash-multimc">
+
+In MultiMC klickst du auf `Instanz Bearbeiten`, dann auf `Andere Logs`, wählst die **neueste** Datei aus dem Ordner
+`crash-reports` und klickst dann auf `Hochladen`.
+Du erhältst nun einen Link, den du posten kannst.
+</tab>
+<tab title="FTB App" id="minecraft-crash-ftb-app">
+
+In der FTB App klickst du dein Modpack-Profil an, dort oben rechts auf `Settings`, anschließend unten links auf
+`Open Folder`.
+Dort findest du den Ordner `crash-reports`. Darin befinden sich mehrere Dateien, z. B.
+`crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei und lade diese auf einer der oben genannten Seiten
+hoch.
+</tab>
+<tab title="Andere Launcher" id="minecraft-crash-other-launcher">
+
+In deinem Profil-Ordner (z. B. `Fabric 1.21.11`) findest du den Ordner `crash-reports`.
+Darin befinden sich mehrere Dateien, z. B. `crash-2026-03-22_16.25.54-client.txt`. Nimm die **neueste** Datei und lade
+diese auf einer der oben genannten Seiten hoch.
+
+> Der genaue Pfad zum `crash-reports`-Ordner hängt vom verwendeten Launcher ab. Suche innerhalb deines
+> Modpack-/Instanz-Ordners nach einem Ordner namens `crash-reports`.
+> {style="tip"}
+</tab>
+</tabs>
+
+</chapter>
+> - Der Crash-Report ist nicht der Log.
+> - Poste den Crash-Report bitte nicht als lange Chatnachricht, sondern teile ihn als Link.
+> - Ohne Crash-Report kann dir nicht gezielt geholfen werden. Wenn du Probleme hast, den Crash-Report zu finden,
+>   hilft dir das Team gerne.
+> - Nimm immer die **neueste** Datei aus dem `crash-reports`-Ordner.
+> - Bitte verändere den Crash-Report nicht!
+>
+{style="note" title="Wichtig"}
+
+</def>
 <def title="Was tue ich, wenn ein Spieler mich betrügt oder beklaut?" id="player-scam">
 
 Hierzu gibt es auf dem Discord ein Ticketsystem für [Support und Erstattungen](support.md "%click-more-info%").
