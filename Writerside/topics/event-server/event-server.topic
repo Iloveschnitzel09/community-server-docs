@@ -21,7 +21,7 @@
 
         <primary>
             <title>Aktuelle Events</title>
-
+            <card href="anarchy2-event.md" badge="creative"/>
         </primary>
 
         <secondary>
