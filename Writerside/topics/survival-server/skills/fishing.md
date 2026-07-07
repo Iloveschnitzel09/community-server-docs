@@ -96,4 +96,16 @@ gesammelt haben musst.
 | 49    | 80.000       | 1.030.235 |
 | 50    | 100.000      | 1.130.235 |
 
+## Belohnungsübersicht {collapsible="true" default-state="collapsed" id="reward-overview"}
+
+Hier findest du alle Belohnungen, die du auf den jeweiligen Skill-Leveln erhältst.
+
+| Level | Belohnung                       |
+|-------|---------------------------------|
+| 10    | Trank mit Dolphin's Grace IV      |
+| 20    | Herz des Meeres                 |
+| 30    | Verzaubertes Buch mit Reparatur |
+| 40    | Verzaubertes Buch mit Köder IV   |
+| 50    | Verzaubertes Buch mit Sog VI     |
+
 ****
